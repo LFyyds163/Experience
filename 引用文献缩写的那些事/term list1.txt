@@ -1,0 +1,358 @@
+﻿Algorithms for Molecular Biology	Algorithms Mol. Biol.	Algorithms Mol Biol
+American Journal of Human Biology	Am. J. Hum. Biol.	Am J Hum Biol
+American Journal of Human Genetics	Am. J. Hum. Genet.	Am J Hum Genet
+Annals of Oncology	Ann. Oncol.	Ann Oncol
+Annual Review of Genomics and Human Genetics
+Annual Review of Medicine	Annu. Rev. Med.	Annu Rev Med
+Biochemical and Biophysical Research Communications	Biochem. Biophys. Res. Commun.	Biochem Biophys Res Commun
+Biochimica et Biophysica Acta	Biochim. Biophys. Acta	Biochim Biophys Acta
+Biodrugs	Biodrugs	Biodrugs
+Bioinformatics	Bioinformatics	Bioinformatics
+Biology Direct
+Blood	Blood	Blood
+BMC Anesthesiology	BMC Anesthesiol.	BMC Anesthesiol
+BMC Biochemistry	BMC Biochem.	BMC Biochem
+BMC Bioinformatics	BMC Bioinf.	BMC Bioinf
+BMC Biology	BMC Biol.	BMC Biol
+BMC Biophysics	BMC Biophys.	BMC Biophys
+BMC Biotechnology	BMC Biotechnol.	BMC Biotechnol
+BMC Blood Disorders	BMC Blood Disord.	BMC Blood Disord
+BMC Cancer	BMC Cancer	BMC Cancer
+BMC Cardiovascular Disorders	BMC Cardiovasc. Disord.	BMC Cardiovasc Disord
+BMC Cell Biology	BMC Cell Biol.	BMC Cell Biol
+BMC Chemical Biology	BMC Chem. Biol.	BMC Chem Biol
+BMC Clinical Pathology	BMC Clin. Pathol.	BMC Clin Pathol
+BMC Clinical Pharmacology	BMC Clin. Pharmacol.	BMC Clin Pharmacol
+BMC Complementary and Alternative Medicine	BMC Complement. Altern. Med.	BMC Complement Altern Med	BMC Complementary & Alternative Medicine
+BMC Dermatology	BMC Dermatol.	BMC Dermatol
+BMC Developmental Biology	BMC Dev. Biol.	BMC Dev Biol
+BMC Ear, Nose, and Throat Disorders	BMC Ear Nose Throat Disord.	BMC Ear Nose Throat Disord	BMC Ear, Nose, & Throat Disorders
+BMC Ecology	BMC Ecol.	BMC Ecol
+BMC Emergency Medicine	BMC Emerg. Med.	BMC Emerg Med
+BMC Endocrine Disorders	BMC Endocr. Disord.	BMC Endocr Disord
+BMC Evolutionary Biology	BMC Evol. Biol.	BMC Evol Biol
+BMC Family Practice	BMC Fam. Pract.	BMC Fam Pract
+BMC Gastroenterology	BMC Gastroenterol.	BMC Gastroenterol
+BMC Genetics	BMC Genet.	BMC Genet
+BMC Genomics	BMC Genomics	BMC Genomics
+BMC Geriatrics	BMC Geriatr.	BMC Geriatr
+BMC Health Services Research	BMC Health Serv. Res.	BMC Health Serv Res
+BMC Immunology	BMC Immunol.	BMC Immunol
+BMC Infectious Diseases	BMC Infect. Dis.	BMC Infect Dis
+BMC International Health and Human Rights	BMC Int. Health Hum. Rights	BMC Int Health Hum Rights	BMC International Health & Human Rights
+BMC Medical Education	BMC Med. Educ.	BMC Med Educ
+BMC Medical Ethics	BMC Med. Ethics	BMC Med Ethics
+BMC Medical Genetics	BMC Med. Genet.	BMC Med Genet
+BMC Medical Genomics	BMC Med. Genomics	BMC Med Genomics
+BMC Medical Imaging	BMC Med. Imaging	BMC Med Imaging
+BMC Medical Informatics and Decision Making	BMC Med. Inform. Decis. Mak.	BMC Med Inform Decis Mak	BMC Medical Informatics & Decision Making
+BMC Medical Physics	BMC Med. Phys.	BMC Med Phys
+BMC Medical Research Methodology	BMC Med. Res. Methodol.	BMC Med Res Methodol
+BMC Medicine	BMC Med.	BMC Med
+BMC Microbiology	BMC Microbiol.	BMC Microbiol
+BMC Molecular Biology	BMC Mol. Biol.	BMC Mol Biol
+BMC Musculoskeletal Disorders	BMC Musculoskelet. Disord.	BMC Musculoskelet Disord
+BMC Nephrology	BMC Nephrol.	BMC Nephrol
+BMC Neurology	BMC Neurol.	BMC Neurol
+BMC Neuroscience	BMC Neurosci.	BMC Neurosci
+BMC Nuclear Medicine	BMC Nucl. Med.	BMC Nucl Med
+BMC Nursing	BMC Nurs.	BMC Nurs
+BMC Ophthalmology	BMC Ophthalmol.	BMC Ophthalmol
+BMC Oral Health	BMC Oral Health	BMC Oral Health
+BMC Palliative Care	BMC Palliat. Care	BMC Palliat Care
+BMC Pediatrics	BMC Pediatr.	BMC Pediatr
+BMC Pharmacology	BMC Pharmacol.	BMC Pharmacol
+BMC Physiology	BMC Physiol.	BMC Physiol
+BMC Plant Biology	BMC Plant Biol.	BMC Plant Biol
+BMC Pregnancy and Childbirth	BMC Pregnancy Childbirth	BMC Pregnancy Childbirth	BMC Pregnancy & Childbirth
+BMC Proceedings	BMC Proc.	BMC Proc
+BMC Psychiatry	BMC Psychiatry	BMC Psychiatry
+BMC Public Health	BMC Public Health	BMC Public Health
+BMC Pulmonary Medicine	BMC Pulm. Med.	BMC Pulm Med
+BMC Research Notes	BMC Res. Notes	BMC Res Notes
+BMC Structural Biology	BMC Struct. Biol.	BMC Struct Biol
+BMC Surgery	BMC Surg.	BMC Surg
+BMC Systems Biology	BMC Syst. Biol.	BMC Syst Biol
+BMC Urology	BMC Urol.	BMC Urol
+BMC Veterinary Research	BMC Vet. Res.	BMC Vet Res
+BMC Women's Health	BMC Womens Health	BMC Womens Health
+Briefings in Bioinformatics	Brief. Bioinform.	Brief Bioinform
+Briefings in Functional Genomics	Briefings Funct. Genomics	Briefings Funct Genomics
+British Journal Of Cancer
+Cancer and Metastasis Reviews	Cancer Metastasis Rev.	Cancer Metastasis Rev	Cancer & Metastasis Reviews
+Cancer Biochemistry Biophysics	Cancer Biochem. Biophys.	Cancer Biochem Biophys
+Cancer Biology & Therapy	Cancer Biol. Ther.	Cancer Biol Ther
+Cancer Biomarkers	Cancer Biomark.	Cancer Biomark
+Cancer Biotherapy & Radiopharmaceuticals	Cancer Biother. Radiopharm.	Cancer Biother Radiopharm
+Cancer Biotherapy	Cancer Biother.	Cancer Biother
+Cancer Bulletin	Cancer Bull.	Cancer Bull
+Cancer Causes and Control	Cancer Causes Control	Cancer Causes Control	Cancer Causes & Control
+Cancer Cell International	Cancer Cell Int.	Cancer Cell Int
+Cancer Cell	Cancer Cell	Cancer Cell
+Cancer Cells	Cancer Cells	Cancer Cells
+Cancer Chemotherapy and Biological Response Modifiers	Cancer Chemother. Biol. Response Modif.	Cancer Chemother Biol Response Modif	Cancer Chemotherapy & Biological Response Modifiers
+Cancer Chemotherapy and Pharmacology	Cancer Chemother. Pharmacol.	Cancer Chemother Pharmacol	Cancer Chemotherapy & Pharmacology
+Cancer Chemotherapy Reports. Part 1	Cancer Chemother. Rep.	Cancer Chemother Rep
+Cancer Chemotherapy Reports. Part 2	Cancer Chemother. Rep. 2	Cancer Chemother Rep 2
+Cancer Chemotherapy Reports. Part 3	Cancer Chemother. Rep. 3	Cancer Chemother Rep 3
+Cancer Clinical Trials	Cancer Clin. Trials	Cancer Clin Trials
+Cancer Communications	Cancer Commun.	Cancer Commun
+Cancer Control	Cancer Control	Cancer Control
+Cancer Cytology	Cancer Cytol.	Cancer Cytol
+Cancer Cytopathology	Cancer Cytopathol.	Cancer Cytopathol
+Cancer Detection and Prevention	Cancer Detect. Prev.	Cancer Detect Prev	Cancer Detection & Prevention
+Cancer Detection and Prevention. Supplement	Cancer Detect. Prev. Suppl.	Cancer Detect Prev Suppl	Cancer Detection & Prevention. Supplement
+Cancer Discovery	Cancer Discov.	Cancer Discov
+Cancer Drug Delivery	Cancer Drug Deliv.	Cancer Drug Deliv
+Cancer Epidemiology	Cancer Epidemiol.	Cancer Epidemiol
+Cancer Epidemiology, Biomarkers and Prevention	Cancer Epidemiol. Biomarkers Prev.	Cancer Epidemiol Biomarkers Prev	Cancer Epidemiology, Biomarkers & Prevention
+Cancer Gene Therapy	Cancer Gene Ther.	Cancer Gene Ther
+Cancer Genetics and Cytogenetics	Cancer Genet. Cytogenet.	Cancer Genet Cytogenet	Cancer Genetics & Cytogenetics
+Cancer Genetics	Cancer Genet.	Cancer Genet
+Cancer Genomics & Proteomics	Cancer Genomics Proteomics	Cancer Genomics Proteomics
+Cancer Growth and Metastasis	Cancer Growth Metastasis	Cancer Growth Metastasis	Cancer Growth & Metastasis
+Cancer Imaging	Cancer Imaging	Cancer Imaging
+Cancer Immunity	Cancer Immun.	Cancer Immun
+Cancer Immunology, Immunotherapy	Cancer Immunol. Immunother.	Cancer Immunol Immunother
+Cancer Informatics	Cancer Inform.	Cancer Inform
+Cancer Investigation	Cancer Invest.	Cancer Invest
+Cancer Journal from Scientific American	Cancer J. Sci. Am.	Cancer J Sci Am
+Cancer Journal	Cancer J.	Cancer J
+Cancer Letters	Cancer Lett.	Cancer Lett
+Cancer Management and Research	Cancer Manag. Res.	Cancer Manag Res	Cancer Management & Research
+Cancer Microenvironment	Cancer Microenviron.	Cancer Microenviron
+Cancer Nanotechnology	Cancer Nanotechnol.	Cancer Nanotechnol
+Cancer News	Cancer News	Cancer News
+Cancer Nursing	Cancer Nurs.	Cancer Nurs
+Cancer Practice	Cancer Pract.	Cancer Pract
+Cancer Prevention and Control	Cancer Prev. Control	Cancer Prev Control	Cancer Prevention & Control
+Cancer Prevention Research (Philadelphia, Pa.)	Cancer Prev. Res. (Phila.)	Cancer Prev Res (Phila)
+Cancer Progress	Cancer Prog.	Cancer Prog
+Cancer Radiotherapie	Cancer Radiother.	Cancer Radiother
+Cancer Research and Treatment	Cancer Res. Treat.	Cancer Res Treat	Cancer Research & Treatment
+Cancer Research	Cancer Res.	Cancer Res
+Cancer Research. Supplement	Can. Res. Suppl.	Can Res Suppl
+Cancer Science	Cancer Sci.	Cancer Sci
+Cancer Surveys	Cancer Surv.	Cancer Surv
+Cancer Therapy	Cancer Ther.	Cancer Ther
+Cancer Treatment and Research	Cancer Treat. Res.	Cancer Treat Res	Cancer Treatment & Research
+Cancer Treatment Reports	Cancer Treat. Rep.	Cancer Treat Rep
+Cancer Treatment Reviews	Cancer Treat. Rev.	Cancer Treat Rev
+Cancer	Cancer	Cancer
+Cancers	Cancers (Basel)	Cancers (Basel)
+Carcinogenesis	Carcinogenesis	Carcinogenesis
+Cell & Bioscience
+Cell Communication and Signaling	Cell Commun. Signal.	Cell Commun Signal
+Cell Discovery	Cell Discovery	Cell Discovery
+Cell Reports	Cell Rep.	Cell Rep
+Cell Research	Cell Res.	Cell Res
+Cell Systems	Cell Syst.	Cell Syst
+Cell	Cell	Cell
+Cellular Signalling	Cell. Signal.	Cell Signal
+Clinical Cancer Research
+Clinical Genetics	Clin. Genet.	Clin Genet
+Clinical Lung Cancer
+Clinical Science	Clin. Sci.	Clin Sci
+Computational Biology and Chemistry
+Critical Reviews in Biochemistry and Molecular Biology	Crit. Rev. Biochem. Mol. Biol.	Crit Rev Biochem Mol Biol	Critical Reviews in Biochemistry & Molecular Biology
+Current Biology
+Current Opinion in Genetics and Development	Curr. Opin. Genet. Dev.	Curr Opin Genet Dev	Current Opinion in Genetics & Development
+Database: The Journal of Biological Databases and Curation	Database (Oxford)	Database (Oxford)	Database: The Journal of Biological Databases & Curation
+EMBO Reports	EMBO Rep.	EMBO Rep
+Endocrine Reviews	Endocr. Rev.	Endocr Rev
+European Journal of Cancer	Eur. J. Cancer	Eur J Cancer
+European Journal of Haematology	Eur. J. Haematol.	Eur J Haematol
+FASEB Journal	FASEB J.	FASEB J
+FEBS Journal	FEBS J.	FEBS J
+FEBS Letters	FEBS Lett.	FEBS Lett
+Future Oncology	Future Oncol.	Future Oncol
+Genes & Cancer	Genes Cancer	Genes Cancer
+Genes and Development	Genes Dev.	Genes Dev	Genes & Development
+Genes and Function	Genes Funct.	Genes Funct	Genes & Function
+Genes and Genetic Systems	Genes Genet. Syst.	Genes Genet Syst	Genes & Genetic Systems
+Genes and Immunity	Genes Immun.	Genes Immun	Genes & Immunity
+Genes to Cells	Genes Cells	Genes Cells
+Genes, Chromosomes and Cancer	Genes Chromosomes Cancer	Genes Chromosomes Cancer	Genes, Chromosomes & Cancer
+Genetical Research	Genet. Res.	Genet Res
+Genetics and Molecular Biology	Genet. Mol. Biol.	Genet Mol Biol	Genetics & Molecular Biology
+Genetics in Medicine	Genet. Med.	Genet Med
+Genetics	Genetics	Genetics
+Genetika	Genetika	Genetika
+Genitourinary Medicine	Genitourin. Med.	Genitourin Med
+Genome Biology and Evolution	Genome Biol. Evol.	Genome Biol Evol	Genome Biology & Evolution
+Genome Biology	Genome Biol.	Genome Biol
+Genome Medicine	Genome Med.	Genome Med
+Genome Research	Genome Res.	Genome Res
+Genome	Genome	Genome
+Genomic Medicine	Genomic Med.	Genomic Med
+Genomics	Genomics	Genomics
+Haematologica	Haematologica	Haematologica
+Human Gene Therapy	Hum. Gene Ther.	Hum Gene Ther
+IEEE Transactions on Industrial Informatics
+IEEE Transactions on Knowledge and Data Engineering
+IEEE/ACM Transactions on Computational Biology and Bioinformatics	IEEE/ACM Trans. Comput. Biol. Bioinform.	IEEE/ACM Trans Comput Biol Bioinform	IEEE/ACM Transactions on Computational Biology & Bioinformatics
+Immunity	Immunity	Immunity
+International Journal of Cancer	Int. J. Cancer	Int J Cancer
+JCO Precision Oncology
+Journal of Biological Chemistry	J. Biol. Chem.	J Biol Chem
+Journal of Cell Biology	J. Cell Biol.	J Cell Biol
+Journal of Cell Science	J. Cell Sci.	J Cell Sci
+Journal of Cheminformatics	J. Cheminform.	J Cheminform
+Journal of Clinical Oncology	J. Clin. Oncol.	J Clin Oncol
+Journal of Computational Biology	J. Comput. Biol.	J Comput Biol
+Journal of Mammary Gland Biology and Neoplasia	J. Mammary Gland Biol. Neoplasia	J Mammary Gland Biol Neoplasia	Journal of Mammary Gland Biology & Neoplasia
+Journal of Medical Genetics
+Journal of Molecular Cell Biology	J. Mol. Cell. Biol.	J Mol Cell Biol
+Journal of Psychiatric Research	J. Psychiatr. Res.	J Psychiatr Res
+Journal of the Royal Statistical Society. Series B (Methodological)
+Journal of Virology	J. Virol.	J Virol
+Leukemia and Lymphoma	Leuk. Lymphoma	Leuk Lymphoma	Leukemia & Lymphoma
+Leukemia Research	Leuk. Res.	Leuk Res
+Leukemia	Leukemia	Leukemia
+Mathematische Nachrichten	Math. Nachr.	Math Nachr
+Molecular & Cellular Proteomics
+Molecular and Biochemical Parasitology	Mol. Biochem. Parasitol.	Mol Biochem Parasitol	Molecular & Biochemical Parasitology
+Molecular and Cellular Biology	Mol. Cell. Biol.	Mol Cell Biol	Molecular & Cellular Biology
+Molecular Biosystems	Mol. BioSyst.	Mol BioSyst
+Molecular Endocrinology	Mol. Endocrinol.	Mol Endocrinol
+Molecular Psychiatry	Mol. Psychiatry	Mol Psychiatry
+Molecular Systems Biology	Mol. Syst. Biol.	Mol Syst Biol
+Molecules
+Nature Biotechnology	Nat. Biotechnol.	Nat Biotechnol
+Nature Cell Biology	Nat. Cell Biol.	Nat Cell Biol
+Nature Chemical Biology	Nat. Chem. Biol.	Nat Chem Biol
+Nature Chemistry	Nat. Chem.	Nat Chem
+Nature Clinical Practice Cardiovascular Medicine	Nat. Clin. Pract. Cardiovasc. Med.	Nat Clin Pract Cardiovasc Med
+Nature Clinical Practice Gastroenterology & Hepatology	Nat. Clin. Pract. Gastroenterol. Hepatol.	Nat Clin Pract Gastroenterol Hepatol
+Nature Clinical Practice Oncology	Nat. Clin. Pract. Oncol.	Nat Clin Pract Oncol
+Nature Clinical Practice Urology	Nat. Clin. Pract. Urol.	Nat Clin Pract Urol
+Nature Clinical Practice: Cardiovascular Medicine	Nat. Clin. Pract. Cardiovasc. Med.	Nat Clin Pract Cardiovasc Med
+Nature Clinical Practice: Endocrinology & Metabolism	Nat. Clin. Pract. Endocrinol. Metab.	Nat Clin Pract Endocrinol Metab
+Nature Clinical Practice: Gastroenterology & Hepatology	Nat. Clin. Pract. Gastroenterol. Hepatol.	Nat Clin Pract Gastroenterol Hepatol
+Nature Clinical Practice: Nephrology	Nat. Clin. Pract. Nephrol.	Nat Clin Pract Nephrol
+Nature Clinical Practice: Neurology	Nat. Clin. Pract. Neurol.	Nat Clin Pract Neurol
+Nature Clinical Practice: Oncology	Nat. Clin. Pract. Oncol.	Nat Clin Pract Oncol
+Nature Clinical Practice: Rheumatology	Nat. Clin. Pract. Rheumatol.	Nat Clin Pract Rheumatol
+Nature Clinical Practice: Urology	Nat. Clin. Pract. Urol.	Nat Clin Pract Urol
+Nature Communications	Nat. Commun.	Nat Commun
+Nature Genetics	Nat. Genet.	Nat Genet
+Nature Immunology	Nat. Immunol.	Nat Immunol
+Nature Medicine	Nat. Med.	Nat Med
+Nature Methods	Nat. Methods	Nat Methods
+Nature Neuroscience	Nat. Neurosci.	Nat Neurosci
+Nature Protocols	Nat. Protoc.	Nat Protoc
+Nature Reviews Cancer
+Nature Reviews Clinical Oncology
+Nature Reviews Genetics
+Nature Reviews: Cancer	Nat. Rev. Cancer	Nat Rev Cancer
+Nature Reviews: Cardiology	Nat. Rev. Cardiol.	Nat Rev Cardiol
+Nature Reviews: Clinical Oncology	Nat. Rev. Clin. Oncol.	Nat Rev Clin Oncol
+Nature Reviews: Drug Discovery	Nat. Rev. Drug Discov.	Nat Rev Drug Discov
+Nature Reviews: Endocrinology	Nat. Rev. Endocrinol.	Nat Rev Endocrinol
+Nature Reviews: Genetics	Nat. Rev. Genet.	Nat Rev Genet
+Nature Reviews: Immunology	Nat. Rev. Immunol.	Nat Rev Immunol
+Nature Reviews: Microbiology	Nat. Rev. Microbiol.	Nat Rev Microbiol
+Nature Reviews: Molecular Cell Biology	Nat. Rev. Mol. Cell Biol.	Nat Rev Mol Cell Biol
+Nature Reviews: Neurology	Nat. Rev. Neurol.	Nat Rev Neurol
+Nature Reviews: Neuroscience	Nat. Rev. Neurosci.	Nat Rev Neurosci
+Nature Structural & Molecular Biology	Nat. Struct. Mol. Biol.	Nat Struct Mol Biol
+Nature Structural Biology	Nat. Struct. Biol.	Nat Struct Biol
+Nature	Nature	Nature
+Nature: New Biology	Nat. New Biol.	Nat New Biol
+New England Journal of Medicine	N. Engl. J. Med.	N Engl J Med
+Non-Coding RNA
+Nucleic Acids Research	Nucleic Acids Res.	Nucleic Acids Res
+Oncogene Research	Oncogene Res.	Oncogene Res
+Oncogene	Oncogene	Oncogene
+Oncologia	Oncologia	Oncologia
+Oncologica	Oncologica	Oncologica
+Oncologist	Oncologist	Oncologist
+Oncology (Williston Park, N.Y.)	Oncology (Williston Park)	Oncology (Williston Park)
+Oncology Letters	Oncol. Lett.	Oncol Lett
+Oncology Nursing Forum	Oncol. Nurs. Forum	Oncol Nurs Forum
+Oncology Reports	Oncol. Rep.	Oncol Rep
+Oncology Research	Oncol. Res.	Oncol Res
+Oncology Reviews	Oncol. Rev.	Oncol Rev
+Oncology	Oncology	Oncology
+Oncotarget	Oncotarget	Oncotarget
+OncoTargets and Therapy	Onco Targets Ther.	Onco Targets Ther	OncoTargets & Therapy
+Pathology & Oncology Research
+Pathology Oncology Research	Pathol. Oncol. Res.	Pathol Oncol Res
+PeerJ
+PeerJ Computer Science	PeerJ Computer Science
+PLoS Biology	PLoS Biol.	PLoS Biol
+PLoS Clinical Trials	PLoS Clin. Trials	PLoS Clin Trials
+PLoS Computational Biology	PLoS Comput. Biol.	PLoS Comput Biol
+PLoS Medicine	PLoS Med.	PLoS Med
+PLoS Neglected Tropical Diseases	PLoS Negl. Trop. Dis.	PLoS Negl Trop Dis
+PloS One	PLoS One	PLoS One
+PLoS Pathogens	PLoS Pathog.	PLoS Pathog
+Proceedings of the National Academy of Sciences
+Proceedings of the National Academy of Sciences of the United States of America	Proc. Natl. Acad. Sci. U. S. A.	Proc Natl Acad Sci U S A
+Prostate	Prostate	Prostate
+Psychopharmacology	Psychopharmacology (Berl.)	Psychopharmacology (Berl)
+Science	Science	Science
+Scientific Reports	Sci. Rep.	Sci Rep
+Semaine Medicale Professionelle et Medico-Sociale	Sem. Med. Prof. Med. Soc.	Sem Med Prof Med Soc
+Semaine Therapeutique	Sem. Ther.	Sem Ther
+Semana Medica de M��xico	Sem. Med. Mex.	Sem Med Mex
+Semana Medica Espanola	Sem. Med. Esp.	Sem Med Esp
+Semina	Semina	Semina
+Seminario de Ense?anza de la Odontopediatria	Semin. Ensen. Odontopediatr.	Semin Ensen Odontopediatr
+Seminars for Nurse Managers	Semin. Nurse Manag.	Semin Nurse Manag
+Seminars in Adolescent Medicine	Semin. Adolesc. Med.	Semin Adolesc Med
+Seminars in Arthritis and Rheumatism	Semin. Arthritis Rheum.	Semin Arthritis Rheum	Seminars in Arthritis & Rheumatism
+Seminars in Arthroplasty	Semin. Arthroplasty	Semin Arthroplasty
+Seminars in Breast Disease	Semin. Breast Dis.	Semin Breast Dis
+Seminars in Cancer Biology	Semin. Cancer Biol.	Semin Cancer Biol
+Seminars in Cardiothoracic and Vascular Anesthesia	Semin. Cardiothorac. Vasc. Anesth.	Semin Cardiothorac Vasc Anesth	Seminars in Cardiothoracic & Vascular Anesthesia
+Seminars in Cell and Developmental Biology	Semin. Cell Dev. Biol.	Semin Cell Dev Biol	Seminars in Cell & Developmental Biology
+Seminars in Cell Biology	Semin. Cell Biol.	Semin Cell Biol
+Seminars in Clinical Neuropsychiatry	Semin. Clin. Neuropsychiatry	Semin Clin Neuropsychiatry
+Seminars in Colon & Rectal Surgery	Semin. Colon Rectal Surg.	Semin Colon Rectal Surg
+Seminars in Cutaneous Medicine and Surgery	Semin. Cutan. Med. Surg.	Semin Cutan Med Surg	Seminars in Cutaneous Medicine & Surgery
+Seminars in Dental Hygiene	Semin. Dent. Hyg.	Semin Dent Hyg
+Seminars in Dermatology	Semin. Dermatol.	Semin Dermatol
+Seminars in Diagnostic Pathology	Semin. Diagn. Pathol.	Semin Diagn Pathol
+Seminars in Drug Treatment	Semin. Drug Treat.	Semin Drug Treat
+Seminars in Family Medicine	Semin. Fam. Med.	Semin Fam Med
+Seminars in Fetal & Neonatal Medicine	Semin. Fetal Neonatal Med.	Semin Fetal Neonatal Med
+Seminars in Gastrointestinal Disease	Semin. Gastrointest. Dis.	Semin Gastrointest Dis
+Seminars in Hematology	Semin. Hematol.	Semin Hematol
+Seminars in Immunology	Semin. Immunol.	Semin Immunol
+Seminars in Immunopathology	Semin. Immunopathol.	Semin Immunopathol
+Seminars in Interventional Cardiology	Semin. Interv. Cardiol.	Semin Interv Cardiol
+Seminars in Laparoscopic Surgery	Semin. Laparosc. Surg.	Semin Laparosc Surg
+Seminars in Liver Disease	Semin. Liver Dis.	Semin Liver Dis
+Seminars in Medical Practice	Semin. Med. Pract.	Semin Med Pract
+Seminars in Nephrology	Semin. Nephrol.	Semin Nephrol
+Seminars in Neurology	Semin. Neurol.	Semin Neurol
+Seminars in Nuclear Medicine	Semin. Nucl. Med.	Semin Nucl Med
+Seminars in Oncology Nursing	Semin. Oncol. Nurs.	Semin Oncol Nurs
+Seminars in Oncology	Semin. Oncol.	Semin Oncol
+Seminars in Ophthalmology	Semin. Ophthalmol.	Semin Ophthalmol
+Seminars in Orthodontics	Semin. Orthod.	Semin Orthod
+The American Journal of Human Genetics
+The American journal of surgical pathology
+The EMBO Journal
+The Journal of Pathology	J. Pathol.	J Pathol
+The Prostate	Prostate	Prostate
+Trends in Analytical Chemistry	Trends Analyt. Chem.	Trends Analyt Chem
+Trends in Biochemical Sciences	Trends Biochem. Sci.	Trends Biochem Sci
+Trends in Biotechnology	Trends Biotechnol.	Trends Biotechnol
+Trends in Cancer Research	Trends Cancer Res.	Trends Cancer Res
+Trends in Cardiovascular Medicine	Trends Cardiovasc. Med.	Trends Cardiovasc Med
+Trends in Cell & Molecular Biology	Trends Cell Mol. Biol.	Trends Cell Mol Biol
+Trends in Cell Biology	Trends Cell Biol.	Trends Cell Biol
+Trends in Ecology & Evolution	Trends Ecol. Evol.	Trends Ecol Evol
+Trends in Endocrinology and Metabolism	Trends Endocrinol. Metab.	Trends Endocrinol Metab	Trends in Endocrinology & Metabolism
+Trends in Evolutionary Biology	Trends Evol. Biol.	Trends Evol Biol
+Trends in Genetics	Trends Genet.	Trends Genet
+Trends in Health Care, Law and Ethics	Trends Health Care Law Ethics	Trends Health Care Law Ethics	Trends in Health Care, Law & Ethics
+Trends in Immunology	Trends Immunol.	Trends Immunol
+Trends in Microbiology	Trends Microbiol.	Trends Microbiol
+Trends in Molecular Medicine	Trends Mol. Med.	Trends Mol Med
+Trends in Neurosciences	Trends Neurosci.	Trends Neurosci
+Trends in Pharmacological Sciences	Trends Pharmacol. Sci.	Trends Pharmacol Sci
+Trends in Reproductive Biology	Tren. Reprod. Bio.	Tren Reprod Bio
+Wiley Interdisciplinary Reviews: Systems Biology and Medicine	Wiley Interdiscip. Rev. Syst. Biol. Med.	Wiley Interdiscip Rev Syst Biol Med	Wiley Interdisciplinary Reviews: Systems Biology & Medicine
