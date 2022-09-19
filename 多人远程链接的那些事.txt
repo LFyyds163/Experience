@@ -1,0 +1,19 @@
+Win10远程连接（实现多用户同时连接）
+教程相关链接：
+　　https://blog.csdn.net/x326279579/article/details/119159108
+（教程比较长、比较繁琐，因为用户需求不同，有些步骤是不必要的，认真阅读）
+
+其中主要参考步骤为：
+　　2.1.1 开启远程、添加允许链接本计算机的用户
+2.3 多用户登录
+　　2.3.1 编辑本地组策略
+	2.3.2 安装配置RDPWrap（这个软件是Windows多人远程同时登录的补丁，最关键的部分）
+　　https://github.com/stascorp/rdpwrap/releases/tag/v1.6.2
+　　2.3.3 解决“not supported”问题（多数情况下会出现这种情况，需要到GitHub中找到相应版本的rdpwrap.ini配置文件进行复制粘贴，相关版本直接搜索会出现结果）
+	https://github.com/stascorp/rdpwrap/issues
+
+主机（IP：192.168.82.68）中存有相应的RDPWrap文件。
+RDPWrap文件位置：H:\MJ\RDPWrap-v1.6.2
+注意！该主机会出现一些问题，在进行远程连接相关配置完成后（fully supported），可能仍不能进行多人同时登录，这时需要重启电脑进行尝试。
+
+
